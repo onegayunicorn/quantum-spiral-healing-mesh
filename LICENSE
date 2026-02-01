@@ -19,3 +19,147 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+MIT License with Commercial Addendum
+
+Copyright (c) 2024 Taka AI (Tyrone Power), Pixelated Pty Ltd, Power Tech Labs
+
+================================================================================
+PART A: MIT LICENSE (Open Source Use)
+================================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+PART B: COMMERCIAL LICENSE ADDENDUM
+================================================================================
+
+For commercial use, enterprise deployments, or integration into proprietary
+systems, a separate commercial license is required.
+
+Commercial use includes but is not limited to:
+1. Integration into commercial products or services
+2. Enterprise deployments (>100 users or >$1M annual revenue)
+3. Medical/clinical applications
+4. Government/military applications
+5. Reselling or redistributing as part of a commercial offering
+
+To obtain a commercial license, contact:
+  Email: licensing@qshm.io
+  Website: https://quantum-spiral-healing-mesh.io/licensing
+
+================================================================================
+PART C: ATTRIBUTIONS & THIRD-PARTY LICENSES
+================================================================================
+
+This software incorporates components from:
+
+1. **Qiskit** (Apache 2.0 License)
+   Copyright IBM Research
+   https://github.com/Qiskit/qiskit
+
+2. **OpenBCI** (MIT License)
+   Copyright OpenBCI
+   https://github.com/OpenBCI
+
+3. **IPFS** (MIT/Apache 2.0 dual license)
+   Copyright Protocol Labs
+   https://github.com/ipfs
+
+4. **NumPy, SciPy, Pandas** (BSD License)
+   Copyright NumPy Developers, SciPy Developers, Pandas Developers
+
+5. **PyTorch** (BSD-style License)
+   Copyright Meta Platforms, Inc.
+
+6. **FastAPI** (MIT License)
+   Copyright Sebastián Ramírez
+
+7. **Docker** (Apache 2.0 License)
+   Copyright Docker, Inc.
+
+Full third-party licenses can be found in the LICENSES/ directory.
+
+================================================================================
+PART D: PATENT NOTICE
+================================================================================
+
+This software may be covered by patents or patent applications. See
+PATENT_DISCLOSURE.md for details on intellectual property claims and
+defensive patent strategies.
+
+Use of this software does NOT grant any patent licenses except as explicitly
+stated in separate patent license agreements.
+
+================================================================================
+PART E: MEDICAL DEVICE & REGULATORY NOTICE
+================================================================================
+
+This software interfaces with medical devices and biological systems. Users
+must ensure compliance with:
+
+- FDA regulations (21 CFR Part 820, 860, 862, etc.) in the United States
+- EU Medical Device Regulation (MDR 2017/745)
+- IEC 60601 for medical electrical equipment
+- ISO 13485 for quality management systems
+- Local regulatory requirements in your jurisdiction
+
+THE SOFTWARE IS PROVIDED FOR RESEARCH AND DEVELOPMENT PURPOSES ONLY.
+NOT APPROVED FOR CLINICAL USE WITHOUT APPROPRIATE REGULATORY CLEARANCE.
+
+================================================================================
+PART F: QUANTUM COMPUTING & CRYPTOGRAPHY EXPORT CONTROLS
+================================================================================
+
+This software may be subject to export control regulations including:
+- U.S. Export Administration Regulations (EAR)
+- International Traffic in Arms Regulations (ITAR)
+- Wassenaar Arrangement on Export Controls
+
+Users are responsible for ensuring compliance with applicable export laws.
+
+================================================================================
+PART G: DATA PRIVACY & BIOMETRIC DATA
+================================================================================
+
+This software processes sensitive biometric and neural data. Users must comply
+with:
+- GDPR (EU General Data Protection Regulation)
+- HIPAA (U.S. Health Insurance Portability and Accountability Act)
+- CCPA (California Consumer Privacy Act)
+- Other applicable data privacy regulations
+
+Users must obtain informed consent before collecting biometric data.
+
+================================================================================
+PART H: DISCLAIMER OF LIABILITY
+================================================================================
+
+THE SOFTWARE INTERFACES WITH QUANTUM SYSTEMS, BRAIN-COMPUTER INTERFACES,
+BLOCKCHAIN NETWORKS, AND BIOMEDICAL DEVICES. 
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHORS AND COPYRIGHT HOLDERS
+SHALL NOT BE LIABLE FOR ANY PHYSICAL INJURY, MEDICAL HARM, FINANCIAL LOSS,
+DATA BREACH, OR ANY OTHER DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+
+USERS ASSUME ALL RISKS ASSOCIATED WITH THE OPERATION OF THIS SOFTWARE AND
+CONNECTED HARDWARE.
+
+================================================================================
+
+For questions about licensing, contact: licensing@qshm.io
